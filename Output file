@@ -1,0 +1,103 @@
+INITIALIZATION OF SWITCHBOARD
+Enter no of fans
+3
+Enter no of AC
+3
+Enter no of bulbs
+3
+SWITCHBOARD MENU:
+1. Fan 1 is off
+2. Fan 2 is off
+3. Fan 3 is off
+4. AC 1 is off
+5. AC 2 is off
+6. AC 3 is off
+7. Bulb 1 is off
+8. Bulb 2 is off
+9. Bulb 3 is off
+Enter the device number to toggle or 0 to exit:
+5
+APPLIANCE ON / OFF MENU
+1. Switch AC 2 on
+2. Back
+Enter your choice
+1
+SWITCHBOARD MENU:
+1. Fan 1 is off
+2. Fan 2 is off
+3. Fan 3 is off
+4. AC 1 is off
+5. AC 2 is on
+6. AC 3 is off
+7. Bulb 1 is off
+8. Bulb 2 is off
+9. Bulb 3 is off
+Enter the device number to toggle or 0 to exit:
+6
+APPLIANCE ON / OFF MENU
+1. Switch AC 3 on
+2. Back
+Enter your choice
+1
+SWITCHBOARD MENU:
+1. Fan 1 is off
+2. Fan 2 is off
+3. Fan 3 is off
+4. AC 1 is off
+5. AC 2 is on
+6. AC 3 is on
+7. Bulb 1 is off
+8. Bulb 2 is off
+9. Bulb 3 is off
+Enter the device number to toggle or 0 to exit:
+9
+APPLIANCE ON / OFF MENU
+1. Switch Bulb 3 on
+2. Back
+Enter your choice
+1
+SWITCHBOARD MENU:
+1. Fan 1 is off
+2. Fan 2 is off
+3. Fan 3 is off
+4. AC 1 is off
+5. AC 2 is on
+6. AC 3 is on
+7. Bulb 1 is off
+8. Bulb 2 is off
+9. Bulb 3 is on
+Enter the device number to toggle or 0 to exit:
+8
+APPLIANCE ON / OFF MENU
+1. Switch Bulb 2 on
+2. Back
+Enter your choice
+1
+SWITCHBOARD MENU:
+1. Fan 1 is off
+2. Fan 2 is off
+3. Fan 3 is off
+4. AC 1 is off
+5. AC 2 is on
+6. AC 3 is on
+7. Bulb 1 is off
+8. Bulb 2 is on
+9. Bulb 3 is on
+Enter the device number to toggle or 0 to exit:
+9
+APPLIANCE ON / OFF MENU
+1. Switch Bulb 3 off
+2. Back
+Enter your choice
+1
+SWITCHBOARD MENU:
+1. Fan 1 is off
+2. Fan 2 is off
+3. Fan 3 is off
+4. AC 1 is off
+5. AC 2 is on
+6. AC 3 is on
+7. Bulb 1 is off
+8. Bulb 2 is on
+9. Bulb 3 is off
+Enter the device number to toggle or 0 to exit:
